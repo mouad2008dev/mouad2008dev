@@ -1,37 +1,90 @@
-<h1 align="center">Hi 👋, I'm Mouad</h1>
-<h3 align="center">I’m interested in programming Minecraft Bedrock mods, creating graphic designs, experimenting with web scraping and penetration testing, and exploring Android development.</h3>
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/mouad2008dev/some-assets/refs/heads/banner-add/git_banner-02.png"  />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mouad2008dev&label=Profile%20views&color=0e75b6&style=flat" alt="mouad2008dev" /> </p>
+###
 
-- 🔭 I’m currently working on **jetpack compose**
+<div align="center">
+  <a href="https://dev.to/mouad_omri_2008" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  </a>
+  <a href="mouadomri91@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.behance.net/mrspeler" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
+  </a>
+  <a href="paypal.me/Gall900" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="paypal logo"  />
+  </a>
+  <a href="https://ko-fi.com/mouad2008" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/26804192" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  </a>
+</div>
 
-- 🌱 I’m currently learning **Jetpack Compose for Android development.**
+###
 
-- 👯 I’m looking to collaborate on **google or microsoft projects**
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mouad2008dev.mouad2008dev&left_color=gray&right_color=black&left_text=view%20count"  />
+</div>
 
-- 👨‍💻 All of my design projects are available at [https://www.behance.net/mrspeler](https://www.behance.net/mrspeler)
+###
 
-- 📝 I regularly write articles on [my notebook :)](my notebook :))
+<h1 align="center">hey there 👋</h1>
 
-- 💬 Ask me about **illustrator or photoshop**
+###
 
-- 📫 How to reach me **mouadomri91@gmail.com**
+<h3 align="left">I'm Mouad 😄</h3>
 
-- ⚡ Fun fact **I’m into creating pixel art and am working on building a home gym!**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-<a href="https://dev.to/mouad_omri_2008" target="blank"><img align="center" src="https://raw.githubusercontent.com/mouad2008dev/some-assets/5cfce3053039448f87cd54bf4c3d47db1b2cc160/dev-to-svgrepo-com.svg" alt="mouad_omri_2008" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/26804192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26804192" height="30" width="40" /></a>
-<a href="https://www.behance.net/mrspeler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mrspeler" height="30" width="40" /></a>
-</p>
+<h3 align="center">🛠 Language and tools🛠</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mouad2008dev/some-assets/refs/heads/main/android.png" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mouad2008dev/some-assets/refs/heads/main/illustrator.png" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mouad2008dev/some-assets/refs/heads/main/photoshop.png" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mouad2008dev/some-assets/refs/heads/main/xd.png" alt="xd" width="40" height="40"/> </a> </p>
+###
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/mouad2008"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="200" alt="mouad2008" /></a></p><br><br>
+<h5 align="left">🔭 I’m currently working on jetpack compose<br><br>    🌱 I’m currently learning Jetpack Compose for Android development.<br><br>    👯 I’m looking to collaborate on google or microsoft projects<br><br>    👨‍💻 All of my design projects are available at https://www.behance.net/mrspeler<br><br>    📝 I regularly write articles on [my notebook :)](my notebook :))<br><br>    💬 Ask me about illustrator or photoshop<br><br>    📫 How to reach me mouadomri91@gmail.com<br><br>    ⚡ Fun fact I’m into creating pixel art and am working on building a home gym!</h5>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouad2008dev&show_icons=true&locale=en&layout=compact" alt="mouad2008dev" /></p>
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<h3 align="center">🔥   My Stats  🔥</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mouad2008dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=mouad2008dev&theme=tokyonight&column=-1&row=1&margin-w=14&margin-h=0&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mouad2008dev&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h2 align="center">I always think I'm working on a groundbreaking project... until I realize I've spent two hours just picking a variable name!😆</h2>
+
+###
