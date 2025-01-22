@@ -88,3 +88,7 @@
 <h2 align="center">I always think I'm working on a groundbreaking project... until I realize I've spent two hours just picking a variable name!😆</h2>
 
 ###
+
+<img src="https://raw.githubusercontent.com/mouad2008dev/mouad2008dev/output/snake.svg" alt="Snake animation" />
+
+###
