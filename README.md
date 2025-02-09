@@ -35,11 +35,11 @@
 
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: flex-end; gap: 5%; flex-wrap: wrap;">
-    <img width="18%" src="https://github.com/mouad2008dev/some-assets/blob/main/atom.gif?raw=true" />
+    <img width="17%" src="https://github.com/mouad2008dev/some-assets/blob/main/atom.gif?raw=true" />
     <img width="20%" src="https://github.com/mouad2008dev/some-assets/blob/main/cube.gif?raw=true" />
     <img width="22%" src="https://github.com/mouad2008dev/some-assets/blob/main/black_hole.gif?raw=true" />
     <img width="20%" src="https://github.com/mouad2008dev/some-assets/blob/main/hand.gif?raw=true" />
-    <img width="18%" src="https://github.com/mouad2008dev/some-assets/blob/main/infinity.gif?raw=true" />
+    <img width="17%" src="https://github.com/mouad2008dev/some-assets/blob/main/infinity.gif?raw=true" />
   </div>
 </div>
 
