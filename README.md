@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="70" src="https://raw.githubusercontent.com/mouad2008dev/some-assets/refs/heads/main/git_banner-11.png"  />
+  <img height="30%" src="https://raw.githubusercontent.com/mouad2008dev/some-assets/refs/heads/main/git_banner-11.png"  />
 </div>
 
 ###
@@ -30,6 +30,20 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mouad2008dev.mouad2008dev&left_color=gray&right_color=black&left_text=view%20count"  />
 </div>
+
+###
+
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: flex-end; gap: 5%; flex-wrap: wrap;">
+    <img width="12%" src="https://github.com/mouad2008dev/some-assets/blob/main/atom.gif?raw=true" />
+    <img width="15%" src="https://github.com/mouad2008dev/some-assets/blob/main/cube.gif?raw=true" />
+    <img width="17%" src="https://github.com/mouad2008dev/some-assets/blob/main/black_hole.gif?raw=true" />
+    <img width="15%" src="https://github.com/mouad2008dev/some-assets/blob/main/hand.gif?raw=true" />
+    <img width="12%" src="https://github.com/mouad2008dev/some-assets/blob/main/infinity.gif?raw=true" />
+  </div>
+</div>
+
+
 
 ###
 
