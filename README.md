@@ -11,7 +11,7 @@
   <a href="mouadomri91@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://www.behance.net/mrspeler" target="_blank">
+  <a href="https://www.behance.net/mouad2008dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
   </a>
   <a href="paypal.me/Gall900" target="_blank">
