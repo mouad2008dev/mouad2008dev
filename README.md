@@ -8,13 +8,13 @@
   <a href="https://dev.to/mouad_omri_2008" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
   </a>
-  <a href="mouadomri91@gmail.com" target="_blank">
+  <a href="mailto:mouadomristudent@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.behance.net/mouad2008dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
   </a>
-  <a href="paypal.me/Gall900" target="_blank">
+  <a href="https://paypal.me/Gall900" target="_blank">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="paypal logo"  />
   </a>
   <a href="https://ko-fi.com/mouad2008" target="_blank">
