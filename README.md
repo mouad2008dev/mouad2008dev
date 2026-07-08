@@ -55,7 +55,14 @@
 
 ###
 
-<h5 align="left">🔭 I’m currently working on jetpack compose<br><br>    🌱 I’m currently learning Jetpack Compose for Android development.<br><br>    👯 I’m looking to collaborate on google or microsoft projects<br><br>    👨‍💻 All of my design projects are available at https://www.behance.net/mouad2008dev<br><br>    📝 I regularly write articles on my notebook :)<br><br>    💬 Ask me about illustrator or photoshop<br><br>    📫 How to reach me mouadomri91@gmail.com<br><br>    ⚡ Fun fact I’m into creating pixel art and am working on building a home gym!</h5>
+##### 🔭 I’m currently working on python and manim
+##### 🌱 I’m currently learning python and calculus
+##### 🤝 I’m looking to collaborate on google or microsoft projects
+##### 💻 All of my design projects are available at [Behance](https://www.behance.net/mouad2008dev)
+##### 📝 I regularly write articles on my notebook :)
+##### 💬 Ask me about illustrator or photoshop
+##### 📫 How to reach me [Email](mailto:mouadomristudent@gmail.com)
+##### ⚡ Fun fact I’m into creating pixel art and am working on building a home gym!
 
 ###
 
@@ -90,17 +97,6 @@
 
 ###
 
-<h3 align="center">🔥   My Stats  🔥</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mouad2008dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=mouad2008dev&theme=tokyonight&column=-1&row=1&margin-w=14&margin-h=0&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mouad2008dev&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
-
-###
 
 <h2 align="center">I always think I'm working on a groundbreaking project... until I realize I've spent two hours just picking a variable name!😆</h2>
 
