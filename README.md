@@ -8,7 +8,7 @@
   <a href="https://dev.to/mouad_omri_2008" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
   </a>
-  <a href="mailto:mouadomristudent@gmail.com" target="_blank">
+  <a href="mailto:mouad2008dev@proton.me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.behance.net/mouad2008dev" target="_blank">
@@ -61,7 +61,7 @@
 ##### 💻 All of my design projects are available at [Behance](https://www.behance.net/mouad2008dev)
 ##### 📝 I regularly write articles on my notebook :)
 ##### 💬 Ask me about illustrator or photoshop
-##### 📫 How to reach me [Email](mailto:mouadomristudent@gmail.com)
+##### 📫 How to reach me [Email](mailto:mouad2008dev@proton.me)
 ##### ⚡ Fun fact I’m into creating pixel art and am working on building a home gym!
 
 ###
